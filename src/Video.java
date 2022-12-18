@@ -1,5 +1,5 @@
 
-public class video {
+public class Video {
     public static void main(String[] args) {
         name();
 
